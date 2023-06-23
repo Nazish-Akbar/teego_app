@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1044013967186",
+    "project_id": "hiliteapp-3e0b2",
+    "storage_bucket": "hiliteapp-3e0b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044013967186:android:89e8579a59ea6255363c8b",
+        "android_client_info": {
+          "package_name": "com.livestream.rossgram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044013967186-1ef2d5bqk1c8rh2299l2j3h6ign067nb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCS38VdTYqfaYA_-yG-OpWXdU-NtOpMhqg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044013967186-1ef2d5bqk1c8rh2299l2j3h6ign067nb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
